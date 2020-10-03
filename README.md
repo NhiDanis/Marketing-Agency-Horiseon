@@ -18,11 +18,11 @@ The goal of this project is using existing code and improve it without changing 
 
 ## Built With
 
-*VScode
+VScode
 
 ## Link
 
-*[URL of the GitHub repository](https://github.com/NhiDanis/Marketing-Agency-Horiseon)
+[URL of the GitHub repository](https://github.com/NhiDanis/Marketing-Agency-Horiseon)
 
 
 
